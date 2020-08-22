@@ -13,7 +13,7 @@ Hi there, I'm <a href="https://juejin.im/user/2594503168898744">dhl</a> ， 我�
 <b>域名二：readme1.hi-dhl.com</b>  
 </p>
 
-## 有趣的 MVVMM 项目 神奇宝贝 (PokemonGo)
+## 有趣的 MVVM 项目 神奇宝贝 (PokemonGo)
 
 神奇宝贝 (PokemonGo) 使用了 2020 年最新的技术 以及每个技术都有对应的文章 分析其原理以及部分源码分析，欢迎前去查看：[PokemonGo](https://github.com/hi-dhl/PokemonGo)
 
