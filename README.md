@@ -15,8 +15,6 @@ Hi there, I'm <a href="https://juejin.im/user/2594503168898744">dhl</a> ， 我�
 
 ## Jetpack 系列文章
 
-正在建立一个最全、最新的 AndroidX Jetpack 相关组件的实战项目 以及 相关组件原理分析文章，可以前去查看：[AndroidX-Jetpack-Practice](https://github.com/hi-dhl/AndroidX-Jetpack-Practice)，仓库持续更新
-
 * [Jetpack 成员 AndroidX App Startup 实践以及原理分析](https://juejin.im/post/6844904190440013837)
 * [Jetpack 成员 Paging3 数据库实践以及源码分析（一）](https://juejin.im/post/6844904193468137486)
 * [Jetpack 成员 Paging3 网络实践及原理分析（二）](https://juejin.im/post/6844904196207345672)
@@ -34,7 +32,7 @@ Hi there, I'm <a href="https://juejin.im/user/2594503168898744">dhl</a> ， 我�
 
 ## Jetpack 实战
 
-以上 **Jetpack 每个技术**（App Startup、Paging3、Hilt 等等）对应的实战案例，正在逐渐增加更多 Jetpack 成员分析 以及 实战案例，可以前去查看：[AndroidX-Jetpack-Practice](https://github.com/hi-dhl/AndroidX-Jetpack-Practice)。
+**以上 Jetpack 每个技术**（App Startup、Paging3、Hilt 等等）对应的实战案例，正在逐渐增加更多 Jetpack 成员分析 以及 实战案例，可以前去查看：[AndroidX-Jetpack-Practice](https://github.com/hi-dhl/AndroidX-Jetpack-Practice)。
 
 [![ReadMe Card](https://hi-dhl-readme.vercel.app/api/pin/?username=hi-dhl&repo=AndroidX-Jetpack-Practice)](https://github.com/hi-dhl/AndroidX-Jetpack-Practice)
 
