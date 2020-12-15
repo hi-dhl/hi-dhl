@@ -1,4 +1,4 @@
-Hi there, I'm <a href="https://juejin.im/user/2594503168898744">dhl</a> ，  <a href="https://juejin.im/user/2594503168898744">掘金</a>  👋 
+Hi there, I'm <a href="https://juejin.im/user/2594503168898744">dhl</a> ，  <a href="https://juejin.im/user/2594503168898744">掘金</a>  👋 👋 👋 
 
 ![](https://readme.hi-dhl.com/api?username=hi-dhl&show_icons=true&hide=prs)
 
@@ -9,18 +9,40 @@ Hi there, I'm <a href="https://juejin.im/user/2594503168898744">dhl</a> ，  <a 
 * 域名一：readme.hi-dhl.com
 * 域名二：readme1.hi-dhl.com
 
+<div class="wrap" style="overflow-x: auto;overflow-y: hidden; ">
+
+
+<a href="https://github.com/hi-dhl/AndroidX-Jetpack-Practice">
+  <img align="center" src="https://hi-dhl-readme.vercel.app/api/pin/?username=hi-dhl&repo=AndroidX-Jetpack-Practice" width = 350px/>
+</a>
+
+<a href="https://github.com/hi-dhl/Binding">
+  <img align="center" src="https://hi-dhl-readme.vercel.app/api/pin/?username=hi-dhl&repo=Binding" width = 350px/>
+</a>
+
+<a href="https://github.com/hi-dhl/PokemonGo">
+  <img align="center" src="https://hi-dhl-readme.vercel.app/api/pin/?username=hi-dhl&repo=PokemonGo" width = 350px/>
+</a>
+
+<a href="https://github.com/hi-dhl/ComposingBuilds-vs-buildSrc">
+  <img align="center" src="https://hi-dhl-readme.vercel.app/api/pin/?username=hi-dhl&repo=ComposingBuilds-vs-buildSrc" width = 350px/>
+</a>
+</div>
+
+
 **联系我**
 
 * 个人微信：hi-dhl
 * 公众号：ByteCode，包含 Jetpack ，Kotlin ，Android 10 系列源码，译文，LeetCode / 剑指 Offer / 多线程 / 国内外大厂算法题 等等一系列文章
 
+
 <img src='http://cdn.51git.cn/2020-10-20-151047.png' width = 350px/>
+
+* 「为互联网人而设计，国内国外名站导航」涵括新闻、体育、生活、娱乐、设计、产品、运营、前端开发、Android 开发等等网址，欢迎前去查看 [为互联网人而设计导航网站](https://site.51git.cn)
 
 --- 
 
-最后推荐我一直在更新维护的项目和网站：
-
-* 全新系列视频：现代 Android 开发 (MAD) 技巧系列教程 [在线查看](https://madskills.hi-dhl.com)
+<!--最后推荐我一直在更新维护的项目和网站：
 
 * 计划建立一个最全、最新的 AndroidX Jetpack 相关组件的实战项目 以及 相关组件原理分析文章，正在逐渐增加 Jetpack 新成员，仓库持续更新，欢迎前去查看：[AndroidX-Jetpack-Practice](https://github.com/hi-dhl/AndroidX-Jetpack-Practice)
 
@@ -35,7 +57,7 @@ Hi there, I'm <a href="https://juejin.im/user/2594503168898744">dhl</a> ，  <a 
 
 * 整理和翻译一系列精选国外的技术文章，每篇文章都会有**译者思考**部分，对原文的更加深入的解读，仓库持续更新，欢迎前去查看 [Technical-Article-Translation](https://github.com/hi-dhl/Technical-Article-Translation)
 
-* 「为互联网人而设计，国内国外名站导航」涵括新闻、体育、生活、娱乐、设计、产品、运营、前端开发、Android 开发等等网址，欢迎前去查看 [为互联网人而设计导航网站](https://site.51git.cn)
+* 「为互联网人而设计，国内国外名站导航」涵括新闻、体育、生活、娱乐、设计、产品、运营、前端开发、Android 开发等等网址，欢迎前去查看 [为互联网人而设计导航网站](https://site.51git.cn)-->
 
 **最新 Jetpack 系列文章**
 
