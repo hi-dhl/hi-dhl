@@ -1,4 +1,4 @@
-Hi there, I'm <a href="https://juejin.im/user/2594503168898744">dhl</a> ，  <a href="https://juejin.im/user/2594503168898744">掘金</a>  👋 👋 👋 <a href="https://hi-dhl.com/">博客</a>  👋 👋 👋 
+Hi there, I'm <a href="https://juejin.im/user/2594503168898744">dhl</a> ，  <a href="https://juejin.im/user/2594503168898744">掘金</a>  👋 👋 👋 <a href="https://hi-dhl.com/">博客</a>  👋 👋 👋  <img align="center" src="https://komarev.com/ghpvc/?username=hi-dhl" />
 
  
 ![](https://readme.hi-dhl.com/api?username=hi-dhl&show_icons=true&hide=prs)
@@ -105,9 +105,6 @@ Hi there, I'm <a href="https://juejin.im/user/2594503168898744">dhl</a> ，  <a 
 
 * 计划建立一个最全、最新的 AndroidX Jetpack 相关组件的实战项目 以及 相关组件原理分析文章，正在逐渐增加 Jetpack 新成员，仓库持续更新，欢迎前去查看：[AndroidX-Jetpack-Practice](https://github.com/hi-dhl/AndroidX-Jetpack-Practice)-->
 
-
-
-<img align="center" src="https://komarev.com/ghpvc/?username=hi-dhl" style="visibility:hidden;"/>
     
 <!--## Jetpack 实战
 
@@ -140,5 +137,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
 
 
