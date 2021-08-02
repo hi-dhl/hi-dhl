@@ -17,6 +17,10 @@ Hi there, I'm <a href="https://juejin.im/user/2594503168898744">dhl</a> ，  <a 
   <img align="center" src="https://hi-dhl-readme.vercel.app/api/pin/?username=hi-dhl&repo=Binding" width = 350px/>
 </a>
 
+<a href="https://github.com/hi-dhl/KtKit">
+  <img align="center" src="https://hi-dhl-readme.vercel.app/api/pin/?username=hi-dhl&repo=KtKit" width = 350px/>
+</a>
+
 <a href="https://github.com/hi-dhl/AndroidX-Jetpack-Practice">
   <img align="center" src="https://hi-dhl-readme.vercel.app/api/pin/?username=hi-dhl&repo=AndroidX-Jetpack-Practice" width = 350px/>
 </a>
@@ -29,21 +33,21 @@ Hi there, I'm <a href="https://juejin.im/user/2594503168898744">dhl</a> ，  <a 
   <img align="center" src="https://hi-dhl-readme.vercel.app/api/pin/?username=hi-dhl&repo=ComposingBuilds-vs-buildSrc" width = 350px/>
 </a>
 
-<!--<a href="https://github.com/hi-dhl/Leetcode-Solutions-with-Java-And-Kotlin">
+<a href="https://github.com/hi-dhl/Leetcode-Solutions-with-Java-And-Kotlin">
   <img align="center" src="https://hi-dhl-readme.vercel.app/api/pin/?username=hi-dhl&repo=Leetcode-Solutions-with-Java-And-Kotlin" width = 350px/>
-</a>-->
-
-<a href="https://github.com/hi-dhl/Android10-Source-Analysis">
-  <img align="center" src="https://hi-dhl-readme.vercel.app/api/pin/?username=hi-dhl&repo=Android10-Source-Analysis" width = 350px/>
 </a>
+
+<!--<a href="https://github.com/hi-dhl/Android10-Source-Analysis">
+  <img align="center" src="https://hi-dhl-readme.vercel.app/api/pin/?username=hi-dhl&repo=Android10-Source-Analysis" width = 350px/>
+</a>-->
 
 <!--<a href="https://github.com/hi-dhl/Technical-Article-Translation">
   <img align="center" src="https://hi-dhl-readme.vercel.app/api/pin/?username=hi-dhl&repo=Technical-Article-Translation" width = 350px/>
 </a>-->
 
-<a href="https://github.com/hi-dhl/MAD-Skills">
+<!--<a href="https://github.com/hi-dhl/MAD-Skills">
   <img align="center" src="https://hi-dhl-readme.vercel.app/api/pin/?username=hi-dhl&repo=MAD-Skills" width = 350px/>
-</a>
+</a>-->
 
 
 </div>
@@ -62,8 +66,14 @@ Hi there, I'm <a href="https://juejin.im/user/2594503168898744">dhl</a> ，  <a 
 
 ---
 
-**最新 Jetpack 系列文章**
+**最新 Kotlin / Jetpack 系列文章**
 
+* [为数不多的人知道的 Kotlin 技巧及解析(三)](https://mp.weixin.qq.com/s/lcLJB0MFaYX1lQXtJ3M88g)
+* [Kotlin 插件的落幕，ViewBinding 的崛起](https://mp.weixin.qq.com/s/FxrRyXp9-VDdv-mfkzsIsA)
+* [Kotlin 密封类进化了](https://mp.weixin.qq.com/s/0O-ZnbVnHUnh3jCnthKgHA)
+* [Kotlin 中的密封类 优于 带标签的类](https://mp.weixin.qq.com/s/VNxFVGvDU-X3lfenehkGtw)
+* [Kotlin Sealed 是什么？为什么 Google 都在用](https://mp.weixin.qq.com/s/X1jEUFS8vmRF9ybkmVy5zQ)
+* [Kotlin StateFlow 搜索功能的实践 DB + NetWork](https://juejin.im/post/6876990111113248775)
 * [再见 SharedPreferences 拥抱 Jetpack DataStore (一)](https://juejin.im/post/6881442312560803853)
 * [再见 SharedPreferences 拥抱 Jetpack DataStore (二)](https://juejin.im/post/6888847647802097672)
 * [Jetpack 成员 AndroidX App Startup 实践以及原理分析](https://juejin.im/post/6844904190440013837)
@@ -76,26 +86,15 @@ Hi there, I'm <a href="https://juejin.im/user/2594503168898744">dhl</a> ，  <a 
 * [全方面分析 Hilt 和 Koin 性能](https://juejin.im/post/6846687596370722823) 
 * [神奇宝贝(PokemonGo)  眼前一亮的 Jetpack + MVVM 极简实战](https://juejin.im/post/6850037271253483534?utm_source=gold_browser_extension) 
 * [Google 推荐在 MVVM 架构中使用 Kotlin Flow](https://juejin.im/post/6854573211930066951)
-* [Kotlin Sealed 是什么？为什么 Google 都用](https://juejin.im/post/6859980718588575757)
-* [Kotlin StateFlow 搜索功能的实践 DB + NetWork](https://juejin.im/post/6876990111113248775)
-* [Kotlin 插件的落幕，ViewBinding 的崛起](https://mp.weixin.qq.com/s/FxrRyXp9-VDdv-mfkzsIsA)
-* [竟然如此简单，DataBinding 和 ViewBinding](https://mp.weixin.qq.com/s/omn7AhHzihhtr0vtq6csNg)
-* [更多......](https://mp.weixin.qq.com/mp/homepage?__biz=MzAwNDgwMzU4Mw==&hid=3&sn=66ba0667c7b8a126e45c1d7f1930ad04&scene=18#wechat_redirect)
+* [更多......](https://mp.weixin.qq.com/mp/homepage?__biz=MzAwNDgwMzU4Mw==&hid=2&sn=42f5bd4e2b80764cd890981c7ffccfa3&scene=1&devicetype=android-30&version=28000753&lang=zh_CN&nettype=3gnet&ascene=7&session_us=gh_d4a2dd00574d&wx_header=1)
 
 **其他系列文章：**
 
-* 全新系列视频：现代 Android 开发 (MAD) 技巧系列教程：[在线查看](https://madskills.hi-dhl.com)
-
 * 最新 Koltin 系列文章：[在线查看](https://hi-dhl.com/categories/Kotlin)
-
 * 最新 Android 10 源码分析系列文章：[在线查看](https://hi-dhl.com/categories/Android10)
-
 * 一系列国外的技术文章，每篇文章都会有译者思考部分：[在线查看](https://hi-dhl.com/categories/translated) 
-
 * LeetCode / 剑指 offer / 国内外大厂面试题 / 多线程 题解，语言 Java 和 kotlin，包含多种解法、解题思路、时间复杂度、空间复杂度分析<br/>
-
     <image src="http://cdn.51git.cn/2020-10-04-16017884626310.jpg" width = "500px"/>
-      
     * 剑指 offer 及国内外大厂面试题解：[在线阅读](https://offer.hi-dhl.com)
     * LeetCode 系列题解：[在线阅读](https://leetcode.hi-dhl.com)
 
