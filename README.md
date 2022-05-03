@@ -4,41 +4,26 @@
   </a>
 </h1>
 
-<div align="center">
-  
-    <p align="center">
-      <img align="center" src="https://komarev.com/ghpvc/?username=hi-dhl" />
-    </p>
+<p align="center">
+  <img align="center" src="https://komarev.com/ghpvc/?username=hi-dhl" />
+</p>
     
-    <p align="center">
-          <table>
-              <tr>
-                  <td><a href="https://juejin.im/user/2594503168898744">掘金</a></td>
-                  <td><a href="https://hi-dhl.com">博客</a></td>
-                  <td><a href="https://www.zhihu.com/people/hi-dhl">知乎</a></td>
-                  
-                  <td><a href="https://space.bilibili.com/498153238">哔哩哔哩</a></td>
-                  <td><a href="https://site.51git.cn">互联网人专属导航站</a></td>
-              </tr>
-          </table>
-      
-      </p>
-</div>
-
-
 <div align="center">
-    <p align="center">
-        <img align="center" src="https://readme.hi-dhl.com/api?username=hi-dhl&show_icons=true&hide=prs" />
-    </p>
-
-     <p align="center">
-        图中数据获取，可以查看 <a href = "https://github.com/hi-dhl/hi-dhl"> hi-dhl/README.md </a> 因 GitHub 的限制，我增加了两个域名<br/>
-        域名一：readme.hi-dhl.com
-        <br/>
-        域名二：readme1.hi-dhl.com
-     </p>   
-
+  <table>
+      <tr>
+          <td><a href="https://juejin.im/user/2594503168898744">掘金</a></td>
+          <td><a href="https://hi-dhl.com">博客</a></td>
+          <td><a href="https://www.zhihu.com/people/hi-dhl">知乎</a></td>
+          
+          <td><a href="https://space.bilibili.com/498153238">哔哩哔哩</a></td>
+          <td><a href="https://site.51git.cn">互联网人专属导航站</a></td>
+      </tr>
+  </table>
 </div>
+
+<p align="center">
+    <img align="center" src="https://readme.hi-dhl.com/api?username=hi-dhl&show_icons=true&hide=prs" />
+</p>
 
 ___
 
