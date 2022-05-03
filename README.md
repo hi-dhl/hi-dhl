@@ -1,14 +1,60 @@
-Hi there, I'm <a href="https://juejin.im/user/2594503168898744">dhl</a> ，  <a href="https://juejin.im/user/2594503168898744">掘金</a>  👋 👋 👋 <a href="https://hi-dhl.com/">博客</a>  👋 👋 👋  <img align="center" src="https://komarev.com/ghpvc/?username=hi-dhl" />
+<h1 align="center">
+  <a href="https://www.hi-dhl.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=30&center=true&multiline=true&width=600&height=60&lines=Welcome+To+DHL+GitHub">
+  </a>
+</h1>
 
- 
-![](https://readme.hi-dhl.com/api?username=hi-dhl&show_icons=true&hide=prs)
+___
 
-以上 GitHub 数据来源于 [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  
+    <p align="center">
+      <img align="center" src="https://komarev.com/ghpvc/?username=hi-dhl" />
+    </p>
+    
+    <p align="center">
+          <table>
+              <tr>
+                  <td><a href="https://juejin.im/user/2594503168898744">掘金</a></td>
+                  <td><a href="https://hi-dhl.com">博客</a></td>
+                  <td><a href="https://www.zhihu.com/people/hi-dhl">知乎</a></td>
+                  
+                  <td><a href="https://space.bilibili.com/498153238">哔哩哔哩</a></td>
+                  <td><a href="https://site.51git.cn">互联网人专属导航站</a></td>
+              </tr>
+          </table>
+      
+      </p>
+</div>
 
-因 GitHub 的限制，我在原作者的基础上增加了两个域名，不会受到任何限制
 
-* 域名一：readme.hi-dhl.com
-* 域名二：readme1.hi-dhl.com
+<div align="center">
+    <p align="center">
+        <img align="center" src="https://readme.hi-dhl.com/api?username=hi-dhl&show_icons=true&hide=prs" />
+    </p>
+
+     <p align="center">
+        图中数据获取，可以查看 <a href = "https://github.com/hi-dhl/hi-dhl"> hi-dhl/README.md </a> 因 GitHub 的限制，我增加了两个域名<br/>
+        域名一：readme.hi-dhl.com
+        <br/>
+        域名二：readme1.hi-dhl.com
+     </p>   
+
+</div>
+
+___
+
+### 联系我
+
+* 个人微信：hi-dhl
+* 公众号：ByteCode，包含 Jetpack ，Kotlin ，Android 10 系列源码，译文，LeetCode / 剑指 Offer / 多线程 / 国内外大厂算法题 等等一系列文章
+
+<div align="center">
+    <img src='http://cdn.51git.cn/2020-10-20-151047.png' width = 420px/>
+</div>
+
+
+### 仓库
 
 <div class="wrap" style="overflow-x: auto;overflow-y: hidden; ">
 
@@ -54,15 +100,12 @@ Hi there, I'm <a href="https://juejin.im/user/2594503168898744">dhl</a> ，  <a 
 
 ---
 
-**联系我**
-
-* 个人微信：hi-dhl
-* 公众号：ByteCode，包含 Jetpack ，Kotlin ，Android 10 系列源码，译文，LeetCode / 剑指 Offer / 多线程 / 国内外大厂算法题 等等一系列文章
 
 
-<img src='http://cdn.51git.cn/2020-10-20-151047.png' width = 350px/>
 
-* 「为互联网人而设计，国内国外名站导航」涵括新闻、体育、生活、娱乐、设计、产品、运营、前端开发、Android 开发等等网址，欢迎前去查看 [为互联网人而设计导航网站](https://site.51git.cn)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hi-dhl&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
+</div>
 
 ---
 
