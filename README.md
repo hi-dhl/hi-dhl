@@ -13,7 +13,6 @@
       <tr>
           <td><a href="https://juejin.im/user/2594503168898744">掘金</a></td>
           <td><a href="https://hi-dhl.com">博客</a></td>
-          <td><a href="https://www.zhihu.com/people/hi-dhl">知乎</a></td>
           
       </tr>
   </table>
