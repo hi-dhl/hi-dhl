@@ -1,10 +1,8 @@
-<h1 align="center">
+<h2 align="center">
   <a href="https://www.hi-dhl.com">
     <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=30&center=true&multiline=true&width=600&height=60&lines=Welcome+To+DHL+GitHub">
   </a>
 </h1>
-
-___
 
 <div align="center">
   
