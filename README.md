@@ -15,10 +15,6 @@
           <td><a href="https://hi-dhl.com">博客</a></td>
           <td><a href="https://www.zhihu.com/people/hi-dhl">知乎</a></td>
           
-          <td><a href="https://space.bilibili.com/498153238">哔哩哔哩</a></td>
-          
-          <!--<td><a href="https://site.51git.cn">互联网人专属导航站</a></td>-->
-          
       </tr>
   </table>
 </div>
