@@ -68,23 +68,22 @@ ___
   <img align="center" src="https://hi-dhl-readme.vercel.app/api/pin/?username=hi-dhl&repo=PokemonGo" width = 350px/>
 </a>
 
-<a href="https://github.com/hi-dhl/ComposingBuilds-vs-buildSrc">
-  <img align="center" src="https://hi-dhl-readme.vercel.app/api/pin/?username=hi-dhl&repo=ComposingBuilds-vs-buildSrc" width = 350px/>
-</a>
-
 <a href="https://github.com/hi-dhl/Binding">
   <img align="center" src="https://hi-dhl-readme.vercel.app/api/pin/?username=hi-dhl&repo=Binding" width = 350px/>
 </a>
 
+<a href="https://github.com/hi-dhl/ComposingBuilds-vs-buildSrc">
+  <img align="center" src="https://hi-dhl-readme.vercel.app/api/pin/?username=hi-dhl&repo=ComposingBuilds-vs-buildSrc" width = 350px/>
+</a>
 
 
-<!--<a href="https://github.com/hi-dhl/Leetcode-Solutions-with-Java-And-Kotlin">
+<a href="https://github.com/hi-dhl/Leetcode-Solutions-with-Java-And-Kotlin">
   <img align="center" src="https://hi-dhl-readme.vercel.app/api/pin/?username=hi-dhl&repo=Leetcode-Solutions-with-Java-And-Kotlin" width = 350px/>
-</a>-->
+</a>
 
-<!--<a href="https://github.com/hi-dhl/Android10-Source-Analysis">
+<a href="https://github.com/hi-dhl/Android10-Source-Analysis">
   <img align="center" src="https://hi-dhl-readme.vercel.app/api/pin/?username=hi-dhl&repo=Android10-Source-Analysis" width = 350px/>
-</a>-->
+</a>
 
 <!--<a href="https://github.com/hi-dhl/Technical-Article-Translation">
   <img align="center" src="https://hi-dhl-readme.vercel.app/api/pin/?username=hi-dhl&repo=Technical-Article-Translation" width = 350px/>
