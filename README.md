@@ -33,8 +33,9 @@
 </div>
 
 <p align="center">
-    <img align="center" src="https://readme.hi-dhl.com/api?username=hi-dhl&show_icons=true&hide=prs" />
+    <img align="center" src="https://readme.hi-dhl.com/api?username=hi-dhl&count_private=true&hide=prs,contribs&show_icons=true" />
 </p>
+
 
 ___
 
@@ -43,7 +44,7 @@ ___
 * 个人微信：hi-dhl
 * 公众号：ByteCode，包含 Jetpack ，Kotlin ，Android 10 系列源码，译文，LeetCode / 剑指 Offer / 多线程 / 国内外大厂算法题 等等一系列文章
 
-<img src='http://cdn.51git.cn/2020-10-20-151047.png' width = 350px/>
+![](https://img.hi-dhl.com/16669290985835.jpg)
 
 ___
 
