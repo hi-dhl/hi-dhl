@@ -53,6 +53,15 @@ ___
 <div class="wrap" style="overflow-x: auto;overflow-y: hidden; ">
 
 
+<a href="https://github.com/hi-dhl/PokemonGo">
+  <img align="center" src="https://hi-dhl-readme.vercel.app/api/pin/?username=hi-dhl&repo=PokemonGo" width = 350px/>
+</a>
+
+<a href="https://github.com/hi-dhl/AndroidX-Jetpack-Practice">
+  <img align="center" src="https://hi-dhl-readme.vercel.app/api/pin/?username=hi-dhl&repo=AndroidX-Jetpack-Practice" width = 350px/>
+</a>
+
+
 <a href="https://github.com/hi-dhl/SyncKit">
   <img align="center" src="https://hi-dhl-readme.vercel.app/api/pin/?username=hi-dhl&repo=SyncKit" width = 350px/>
 </a>
@@ -61,13 +70,7 @@ ___
   <img align="center" src="https://hi-dhl-readme.vercel.app/api/pin/?username=hi-dhl&repo=KtKit" width = 350px/>
 </a>
 
-<a href="https://github.com/hi-dhl/AndroidX-Jetpack-Practice">
-  <img align="center" src="https://hi-dhl-readme.vercel.app/api/pin/?username=hi-dhl&repo=AndroidX-Jetpack-Practice" width = 350px/>
-</a>
 
-<a href="https://github.com/hi-dhl/PokemonGo">
-  <img align="center" src="https://hi-dhl-readme.vercel.app/api/pin/?username=hi-dhl&repo=PokemonGo" width = 350px/>
-</a>
 
 <a href="https://github.com/hi-dhl/Binding">
   <img align="center" src="https://hi-dhl-readme.vercel.app/api/pin/?username=hi-dhl&repo=Binding" width = 350px/>
